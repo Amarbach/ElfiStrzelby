@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ElfiStrzelby",
+			"Path": "..\\Source\\ElfiStrzelby.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ElfiStrzelbyEditor",
+			"Path": "..\\Source\\ElfiStrzelbyEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
