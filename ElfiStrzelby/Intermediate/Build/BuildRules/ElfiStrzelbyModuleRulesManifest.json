@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"D:\\Projekty\\Unreal\\ElfiStrzelby\\ElfiStrzelby\\Source\\ElfiStrzelby\\ElfiStrzelby.Build.cs",
-		"D:\\Projekty\\Unreal\\ElfiStrzelby\\ElfiStrzelby\\Source\\ElfiStrzelby.Target.cs",
-		"D:\\Projekty\\Unreal\\ElfiStrzelby\\ElfiStrzelby\\Source\\ElfiStrzelbyEditor.Target.cs"
-	],
-	"EngineVersion": "5.3.1"
-}
